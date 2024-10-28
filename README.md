@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple project I made together with "The Odin Project" with the objective of practicing and learning more about HTML elements and tags. Using simple tags like <img>, <h1>, <h2>, <ul>, <ol> and <a>, I made a simple website about some food recipes. 
