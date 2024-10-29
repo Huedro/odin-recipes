@@ -1,0 +1,34 @@
+#odin-title {
+    color: gold;
+    background-color: black;
+}
+
+body {
+    background-color: bisque;
+}
+
+.title-lasagna {
+    color: crimson;
+}
+
+.title-chocolate-cake {
+    color: maroon;
+}
+
+.title-chocolate-ice-cream {
+    color: tomato
+}
+
+h2 {
+    color: brown;
+}
+
+ol,
+ul {
+    font-weight: bold;
+}
+
+p {
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+}
