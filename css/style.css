@@ -1,6 +1,20 @@
+.container {
+    background-color: rgb(248, 248, 248);    
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.recipe-list {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 #odin-title {
     color: gold;
     background-color: black;
+    padding: 10px;
+    text-align: center;
 }
 
 body {
@@ -23,8 +37,7 @@ h2 {
     color: brown;
 }
 
-ol,
-ul {
+ol {
     font-weight: bold;
 }
 
